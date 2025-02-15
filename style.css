@@ -19,11 +19,8 @@ body {
     padding: 0;
 }
 
-.inicio {
-    height: 85vh;
-}
-.conteudo-main{
-    height: 65vh;
+.inicio, .conteudo-main {
+    height: 100vh;
 }
 
 .content-titulo-site{
