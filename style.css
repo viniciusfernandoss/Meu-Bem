@@ -20,7 +20,10 @@ body {
 }
 
 .inicio {
-    height: 90vh;
+    height: 85vh;
+}
+.conteudo-main{
+    height: 65vh;
 }
 
 .content-titulo-site{
